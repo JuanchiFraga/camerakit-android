@@ -36,22 +36,22 @@ install {
     }
 }
 
-bintray {
-    user = rootProject.ext.bintrayUser
-    key = rootProject.ext.bintrayKey
-    override = true
-    publish = true
-    configurations = ['archives']
-    pkg {
-        repo = 'snapshots'
-        name = 'CameraKit-Vision-Android'
-        userOrg = 'wonderkiln'
-        vcsUrl = 'https://github.com/JuanchiFraga/camerakit-android.git'
-        version {
-            name = rootProject.ext.versionName
-            vcsTag = rootProject.ext.versionName
-            released = new Date()
-        }
-    }
-}
+//bintray {
+//    user = rootProject.ext.bintrayUser
+//    key = rootProject.ext.bintrayKey
+//    override = true
+//    publish = true
+//    configurations = ['archives']
+//    pkg {
+//        repo = 'snapshots'
+//        name = 'CameraKit-Vision-Android'
+//        userOrg = 'wonderkiln'
+//        vcsUrl = 'https://github.com/JuanchiFraga/camerakit-android.git'
+//        version {
+//            name = rootProject.ext.versionName
+//            vcsTag = rootProject.ext.versionName
+//            released = new Date()
+//        }
+//    }
+//}
 
