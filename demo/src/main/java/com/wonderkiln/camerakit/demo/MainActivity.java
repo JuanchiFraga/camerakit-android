@@ -118,7 +118,7 @@ public class MainActivity extends AppCompatActivity {
                                 R.string.about_dialog_message,
                                 BuildConfig.VERSION_NAME,
                                 BuildConfig.VERSION_CODE,
-                                com.wonderkiln.camerakit.BuildConfig.VERSION_NAME
+                                ""
                         ))
                         .setPositiveButton("DONE", null)
                         .show();

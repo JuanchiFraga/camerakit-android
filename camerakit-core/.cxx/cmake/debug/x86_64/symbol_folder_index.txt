@@ -1,0 +1,1 @@
+/Users/jfraga/android/camerakit-android/camerakit-core/build/intermediates/cmake/debug/obj/x86_64

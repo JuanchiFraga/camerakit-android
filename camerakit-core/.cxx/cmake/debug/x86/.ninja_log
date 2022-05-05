@@ -1,0 +1,9 @@
+# ninja log v5
+1	127	1651755766	CMakeFiles/JniBitmapOperator.dir/JniBitmapOperator.cpp.o	9c94674431c06fa4
+0	180	1651755766	CMakeFiles/jpge.dir/jpge.cpp.o	ed1476c07b5712fb
+180	250	1651755766	/Users/jfraga/android/camerakit-android/camerakit-core/build/intermediates/cmake/debug/obj/x86/libjpge.so	f478c9c3580c7a3e
+2	373	1651755766	CMakeFiles/JniYuvOperator.dir/JniYuvOperator.cpp.o	d8faac9e5e343180
+373	419	1651755766	/Users/jfraga/android/camerakit-android/camerakit-core/build/intermediates/cmake/debug/obj/x86/libJniYuvOperator.so	a40bd183a8cd0bbd
+1	430	1651755766	CMakeFiles/jpgd.dir/jpgd.cpp.o	2988b5aa6122d2ae
+430	476	1651755766	/Users/jfraga/android/camerakit-android/camerakit-core/build/intermediates/cmake/debug/obj/x86/libjpgd.so	351dae61a483e662
+476	511	1651755766	/Users/jfraga/android/camerakit-android/camerakit-core/build/intermediates/cmake/debug/obj/x86/libJniBitmapOperator.so	75c89b17324b49fc

@@ -1,0 +1,10 @@
+Executable : /Users/jfraga/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/Users/jfraga/android/camerakit-android/camerakit-core/.cxx/cmake/debug/armeabi-v7a
+JniBitmapOperator
+JniYuvOperator
+jpgd
+jpge
+jvmArgs : 
+

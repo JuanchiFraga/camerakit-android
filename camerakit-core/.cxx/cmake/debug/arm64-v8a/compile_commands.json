@@ -1,0 +1,25 @@
+[
+{
+  "directory": "/Users/jfraga/android/camerakit-android/camerakit-core/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/jfraga/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/jfraga/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/jfraga/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Djpge_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/jpge.dir/jpge.cpp.o -c /Users/jfraga/android/camerakit-android/camerakit-core/src/main/cpp/jpge.cpp",
+  "file": "/Users/jfraga/android/camerakit-android/camerakit-core/src/main/cpp/jpge.cpp"
+},
+
+{
+  "directory": "/Users/jfraga/android/camerakit-android/camerakit-core/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/jfraga/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/jfraga/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/jfraga/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -DJniBitmapOperator_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/JniBitmapOperator.dir/JniBitmapOperator.cpp.o -c /Users/jfraga/android/camerakit-android/camerakit-core/src/main/cpp/JniBitmapOperator.cpp",
+  "file": "/Users/jfraga/android/camerakit-android/camerakit-core/src/main/cpp/JniBitmapOperator.cpp"
+},
+
+{
+  "directory": "/Users/jfraga/android/camerakit-android/camerakit-core/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/jfraga/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/jfraga/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/jfraga/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Djpgd_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/jpgd.dir/jpgd.cpp.o -c /Users/jfraga/android/camerakit-android/camerakit-core/src/main/cpp/jpgd.cpp",
+  "file": "/Users/jfraga/android/camerakit-android/camerakit-core/src/main/cpp/jpgd.cpp"
+},
+
+{
+  "directory": "/Users/jfraga/android/camerakit-android/camerakit-core/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/jfraga/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/jfraga/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/jfraga/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -DJniYuvOperator_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/JniYuvOperator.dir/JniYuvOperator.cpp.o -c /Users/jfraga/android/camerakit-android/camerakit-core/src/main/cpp/JniYuvOperator.cpp",
+  "file": "/Users/jfraga/android/camerakit-android/camerakit-core/src/main/cpp/JniYuvOperator.cpp"
+}
+]

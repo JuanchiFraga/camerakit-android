@@ -1,0 +1,73 @@
+{
+  "buildFiles": [
+    "/Users/jfraga/android/camerakit-android/camerakit-core/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/jfraga/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+      "-C",
+      "/Users/jfraga/android/camerakit-android/camerakit-core/.cxx/cmake/debug/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/jfraga/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+    "-C",
+    "/Users/jfraga/android/camerakit-android/camerakit-core/.cxx/cmake/debug/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "jpgd-Debug-x86": {
+      "artifactName": "jpgd",
+      "buildCommandComponents": [
+        "/Users/jfraga/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/jfraga/android/camerakit-android/camerakit-core/.cxx/cmake/debug/x86",
+        "jpgd"
+      ],
+      "abi": "x86",
+      "output": "/Users/jfraga/android/camerakit-android/camerakit-core/build/intermediates/cmake/debug/obj/x86/libjpgd.so",
+      "runtimeFiles": []
+    },
+    "jpge-Debug-x86": {
+      "artifactName": "jpge",
+      "buildCommandComponents": [
+        "/Users/jfraga/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/jfraga/android/camerakit-android/camerakit-core/.cxx/cmake/debug/x86",
+        "jpge"
+      ],
+      "abi": "x86",
+      "output": "/Users/jfraga/android/camerakit-android/camerakit-core/build/intermediates/cmake/debug/obj/x86/libjpge.so",
+      "runtimeFiles": []
+    },
+    "JniYuvOperator-Debug-x86": {
+      "artifactName": "JniYuvOperator",
+      "buildCommandComponents": [
+        "/Users/jfraga/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/jfraga/android/camerakit-android/camerakit-core/.cxx/cmake/debug/x86",
+        "JniYuvOperator"
+      ],
+      "abi": "x86",
+      "output": "/Users/jfraga/android/camerakit-android/camerakit-core/build/intermediates/cmake/debug/obj/x86/libJniYuvOperator.so",
+      "runtimeFiles": []
+    },
+    "JniBitmapOperator-Debug-x86": {
+      "artifactName": "JniBitmapOperator",
+      "buildCommandComponents": [
+        "/Users/jfraga/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/jfraga/android/camerakit-android/camerakit-core/.cxx/cmake/debug/x86",
+        "JniBitmapOperator"
+      ],
+      "abi": "x86",
+      "output": "/Users/jfraga/android/camerakit-android/camerakit-core/build/intermediates/cmake/debug/obj/x86/libJniBitmapOperator.so",
+      "runtimeFiles": [
+        "/Users/jfraga/android/camerakit-android/camerakit-core/build/intermediates/cmake/debug/obj/x86/libJniYuvOperator.so",
+        "/Users/jfraga/android/camerakit-android/camerakit-core/build/intermediates/cmake/debug/obj/x86/libjpgd.so",
+        "/Users/jfraga/android/camerakit-android/camerakit-core/build/intermediates/cmake/debug/obj/x86/libjpge.so"
+      ]
+    }
+  }
+}

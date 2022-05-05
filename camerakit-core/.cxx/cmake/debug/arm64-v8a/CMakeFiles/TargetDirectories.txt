@@ -1,0 +1,6 @@
+/Users/jfraga/android/camerakit-android/camerakit-core/.cxx/cmake/debug/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/jfraga/android/camerakit-android/camerakit-core/.cxx/cmake/debug/arm64-v8a/CMakeFiles/jpge.dir
+/Users/jfraga/android/camerakit-android/camerakit-core/.cxx/cmake/debug/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/jfraga/android/camerakit-android/camerakit-core/.cxx/cmake/debug/arm64-v8a/CMakeFiles/JniBitmapOperator.dir
+/Users/jfraga/android/camerakit-android/camerakit-core/.cxx/cmake/debug/arm64-v8a/CMakeFiles/jpgd.dir
+/Users/jfraga/android/camerakit-android/camerakit-core/.cxx/cmake/debug/arm64-v8a/CMakeFiles/JniYuvOperator.dir
