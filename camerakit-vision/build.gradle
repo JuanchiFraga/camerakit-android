@@ -46,7 +46,7 @@ bintray {
         repo = 'snapshots'
         name = 'CameraKit-Vision-Android'
         userOrg = 'wonderkiln'
-        vcsUrl = 'https://github.com/wonderkiln/CameraKit-Android.git'
+        vcsUrl = 'https://github.com/JuanchiFraga/camerakit-android.git'
         version {
             name = rootProject.ext.versionName
             vcsTag = rootProject.ext.versionName
