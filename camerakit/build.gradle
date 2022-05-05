@@ -24,7 +24,7 @@ dependencies {
     compile project(':camerakit-vision')
 }
 
-group = 'com.wonderkiln'
+group = 'com.github.JuanchiFraga'
 version = rootProject.ext.versionName
 
 install {
